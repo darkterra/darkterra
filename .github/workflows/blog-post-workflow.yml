@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://darkterra.io/rss"
+          feed_list: "https://blog.test.darkterra.io/rss"
           
