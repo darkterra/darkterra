@@ -61,6 +61,7 @@ WIP
 ---
 ### :writing_hand: Blog Posts _(FR)_ :
 <!-- BLOG-POST-LIST:START -->
+- [Coming soon](https://blog.darkterra.io/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 
