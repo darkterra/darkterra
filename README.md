@@ -59,7 +59,7 @@ WIP
 [![Ghithub Stats](https://github-readme-stats.vercel.app/api?username=darkterra&count_private=true&show_icons=true&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts _(FR)_ :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
