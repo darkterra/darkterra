@@ -10,7 +10,15 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - uses: Leocardoso94/is-my-site-up@v1.2
+        with:
+          # Wake up the server
+          site: "https://blog.darkterra.io/rss"
       - uses: actions/checkout@v3.3.0
+      - uses: Leocardoso94/is-my-site-up@v1.2
+        with:
+          # Make sure the server is wake up
+          site: "https://blog.darkterra.io/rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
